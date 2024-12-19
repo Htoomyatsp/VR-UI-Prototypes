@@ -1,2 +1,2 @@
 # VR-UI-Prototypes
-This document outlines the software layout sketches and detailed test cases for a VR-based vacation booking platform. 
+This document outlines the software layout sketches and detailed test cases for a VR-based vacation booking platform. The platform is designed to provide users with a seamless experience for selecting, booking, and managing virtual vacation tours, while also facilitating VR headset rentals and returns. The user interface (UI) is structured to ensure ease of navigation, allowing users to quickly access key pages such as products, bookings, customer support, and order management.
